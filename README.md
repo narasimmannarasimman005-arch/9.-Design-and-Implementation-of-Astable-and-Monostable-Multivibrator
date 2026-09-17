@@ -75,14 +75,52 @@ RA=7.2KΩ, RB= 3.6KΩ
 
 
 
-  **CIRCUIT DIAGRAM**
+  **CIRCUIT DIAGRAM**(MONOSTABLE)
+
+
+<img width="397" height="271" alt="image" src="https://github.com/user-attachments/assets/4dc949bb-4689-4fd4-8bfe-c441748b0116" />
 
 
   **MODEL GRAPH:**
 
 
+<img width="496" height="362" alt="image" src="https://github.com/user-attachments/assets/7f8a1b67-ede9-4911-8a99-2d02b900ea55" />
+
+
   **TABULATION:**
- 
+
+
+  <img width="421" height="285" alt="image" src="https://github.com/user-attachments/assets/f4c40fd2-a5e2-43dd-9a46-a63518e089c3" />
+
+  **GRAPH**
+
+
+  <img width="521" height="565" alt="image" src="https://github.com/user-attachments/assets/b5a9fa47-4075-4983-af97-fa64e60fa3c5" />
+
+  
+
+
+   **CIRCUIT DIAGRAM**(ASTABLE)
+
+
+<img width="465" height="303" alt="image" src="https://github.com/user-attachments/assets/5f2b36d9-17e9-4582-af13-73eb675abfce" />
+
+
+  **MODEL GRAPH:**
+
+  <img width="510" height="420" alt="image" src="https://github.com/user-attachments/assets/7c5fd0d4-b159-4bbe-bd17-5cbbb67916d3" />
+
+
+
+  **TABULATION:**
+
+  <img width="485" height="241" alt="image" src="https://github.com/user-attachments/assets/7eef3a53-4a21-4d49-9386-4e524e431a19" />
+
+
+   **GRAPH**
+
+ <img width="501" height="483" alt="image" src="https://github.com/user-attachments/assets/99c967d7-642d-4905-bcc7-cd360a5a8e31" />
+
 
 
 
